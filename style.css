@@ -6,7 +6,7 @@
 .dark {
     background-color: #1F2937;
     color: #F9FAF8;
-    padding: 5px 150px;
+    padding: 5px 200px;
 }
 
 header {
@@ -29,6 +29,7 @@ li {
     display: flex;
     margin-bottom: 100px;
     gap: 50px;
+    justify-content: space-between;
 }    
 
 .intro-content {
